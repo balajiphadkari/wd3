@@ -1,0 +1,154 @@
+/********************************* tag selctors ****************************************/
+body{
+    margin: 0%;
+    text-align:center ;
+}
+
+h1{ 
+    position: absolute;
+    padding-top: 90px;
+    font-family:'Sacramento', cursive;
+    color: #66BFBF;
+    top:80px;
+    left:583px;
+    font-size: 562%;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    
+}
+h3{
+    font-size: 1.5rem;
+    color: #11999E;
+    
+}
+hr{background-color:#E4f9f5;
+    border-style: none;
+    border-bottom-style: dotted;
+    
+    border-width: 7px;
+    border-color:grey;
+    
+     height: 2px;
+     width: 2%;
+     padding: 25px;
+}
+/********************************** class selctors ****************************************/
+.p1{
+    position:absolute;
+    padding-top: 85px;
+    top:235px;
+    left:685px;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 3;
+}
+.p{
+    line-height: 1;
+}
+
+.p2{
+    color:#E4f9f5;
+    margin-top: 25px;
+}
+
+.btn{
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+   -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #E4f9f5;
+    font-family: Brush Script MT;
+    font-size:18px;
+    font-weight: 100;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 10px 0 #000000;
+    -moz-box-shadow: 1px 1px 10px 0 #000000;
+    box-shadow: 1px 1px 10px 0 #000000;
+    text-shadow: 1px 1px 10px #000000;
+    border: solid #11999E 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    
+}
+
+
+
+
+.contact-me{
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+.footer-link{
+    color:  #11999E;
+   font-family: Verdana, Geneva, Tahoma, serif;
+   text-decoration: none;
+   width: 120px;
+   display: inline-block;
+}
+
+.top-container{
+    background-color: #E4f9f5;
+    padding-top: 60px;
+    
+}
+
+.middle-container{
+    background-color: #E4f9f5;
+    padding-top:160px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 30px;
+    height: 140px;
+}
+
+
+.top-cloud{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 80px;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    margin-top: 0px;
+    top: 360px;
+    left: 340px;
+}
+
+.imgmount{
+    margin-top: 290px;
+
+}
+.skill-img{
+    width:15%;
+    float: left;
+    padding-right: 30px;
+}
+.skill-img-2{
+    width:17%;
+    float: right;
+}
+
+.skills{
+    width: 50%;
+    margin:auto;
+    margin-top: 80px;
+
+}
+
+.skill-row
+{
+    margin: 30px auto 30px auto;
+    text-align: left;
+    padding: 13px;
+}
